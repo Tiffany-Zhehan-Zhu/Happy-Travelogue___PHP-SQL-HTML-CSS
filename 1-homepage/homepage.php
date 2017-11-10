@@ -90,9 +90,9 @@ body{
  	<div class="bottomleft">
  		<table>
 			<tr> 
-				<td><a href = "http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/2-plan/login.php"> PLANNER </a></td>
-				<td><a href = "http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/3-forum/login.php"> FORUM </a></td> 
-				<td><a href = "http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/4-admin/login_admin.php"> ADMIN </a></td>
+				<td><a href = "../2-plan/login.php"> PLANNER </a></td>
+				<td><a href = "../3-forum/login.php"> FORUM </a></td> 
+				<td><a href = "../4-admin/login_admin.php"> ADMIN </a></td>
 			</tr>
 		</table>
 	</div>
