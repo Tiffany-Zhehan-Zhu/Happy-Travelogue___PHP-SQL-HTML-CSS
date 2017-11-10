@@ -1,9 +1,13 @@
 # HappyTravelogue
 
+-----------------------------------------------------------------------------------------------------------------------------
 Tips for Testing the Functions:
 
 (username: test, password: test) can be used to test the palnner and forum functions.
-(email: ann@123.net, password: 123, manager), (email: cindy@123.net, password: 123, staff), (email: elle@123.net, password: 123, intern) can be used to test the admin functions.
+
+(email: ann@123.net, password: 123, manager), 
+(email: cindy@123.net, password: 123, staff), 
+(email: elle@123.net, password: 123, intern) can be used to test the admin functions.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
