@@ -28,8 +28,8 @@
     </div>
     
     <ul class="nav navbar-nav">
-      <li><a href="http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/1-homepage/homepage.php">Home</a></li>
-      <li><a href="http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/4-admin/employees.php">Menu</a></li>
+      <li><a href="../1-homepage/homepage.php">Home</a></li>
+      <li><a href="../4-admin/employees.php">Menu</a></li>
     </ul>
     
     <ul class="nav navbar-nav navbar-right">
