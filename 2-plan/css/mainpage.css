@@ -1,0 +1,48 @@
+body{
+	background-image: url(plan_main.jpg);
+
+	background-repeat: repeat; 	
+}
+
+p.p1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Candal;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+p.p2 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Salsa;
+    font-size: 22px;
+}
+
+p.loginbtn {
+        text-align: center;
+    vertical-align: middle;
+}
+
+a {
+	text-align: center;
+	vertical-align: middle;
+	background: rgba(255,255,255,0.8);
+	color: #404040;
+	padding: 12px 26px 12px 26px;
+	font-size: 18px;
+	font-family: Cantarell;
+	text-decoration: none;
+}
+
+section {
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+}
