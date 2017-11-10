@@ -1,0 +1,126 @@
+body{
+	background-image: url(plan_main.jpg); 
+	background-size: cover;	
+	background-repeat: no-repeat; 	
+}
+
+table{  
+	font-family: Verdana, sans-serif;
+    color: #4682B4;
+    background:rgba(255,255,255,0.6);
+    padding: 10px 20px 10px 20px;    
+    -webkit-box-shadow: 0 2px 10px rgba(255,255,255,0.5);
+    -moz-box-shadow: 0 2px 10px rgba(255,255,255,0.5);
+  	box-shadow: 0 2px 10px rgba(250,250,255,0.5);
+}
+
+input[type=text] {
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+}
+
+input[type=text]:focus {
+    border: 2px solid #4682B4;
+}
+
+input[type=password] {
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius: 6px;
+    font-size: 25px;
+}
+
+input[type=password]:focus {
+    border: 2px solid #4682B4;
+}
+
+input[type=submit] {
+    background-color: #4682B4;
+    color: white;
+    padding: 10px 20px;
+    margin: 3px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    font-family: Verdana, sans-serif;
+    height: 40px; 
+    width: 220px;
+}
+
+::-webkit-input-placeholder { /* Chrome */
+  color: #C0C0C0;
+  font-size: 14px;
+  font-style: italic;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #C0C0C0;
+  font-size: 14px;
+  font-style: italic;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #C0C0C0;
+  font-size: 14px;
+  font-style: italic;
+  opacity: 1;
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+  color: #C0C0C0;
+  font-size: 14px;
+  font-style: italic;
+  opacity: 1;
+}
+
+p.p1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Candal;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+p.p2 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Salsa;
+    font-size: 18px;
+}
+
+p.loginbtn {
+        text-align: center;
+    vertical-align: middle;
+}
+
+a.button {
+	text-align: center;
+	vertical-align: middle;
+	background: rgba(255,255,255,0.8);
+	color: #404040;
+	padding: 12px 26px 12px 26px;
+	font-size: 18px;
+	font-family: Cantarell;
+	text-decoration: none;
+}
+
+section {
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+}
+

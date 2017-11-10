@@ -1,0 +1,72 @@
+body{
+	background-image: url(plan_main.jpg);
+	background-size: cover;
+	background-repeat: repeat; 	
+}
+
+p.p1 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Candal;
+    font-size: 34px;
+    font-weight: bold;
+}
+
+p.p2 {
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    font-family: ABeeZee;
+    font-size: 29px;
+    font-weight: bold;
+}
+
+
+a.option {
+	color: #4682B4;
+	text-decoration: none;
+}
+
+a.option:hover {
+	color: white;
+	text-decoration: none;
+}
+
+section {
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) 
+}
+
+td.linkButton {
+	text-align: center;
+	vertical-align: middle;
+	background: rgba(255,255,255,0.8);
+	color: #4682B4;
+	padding: 30px 30px 30px 30px;
+	font-size: 25px;
+	font-family: Cantarell;
+	font-weight: bold;	
+	border-radius: 10px;
+    -moz-border-radius: 10px; 
+    -webkit-border-radius: 10px; 	
+}
+
+td.linkButton:hover {
+	text-align: center;
+	vertical-align: middle;
+	padding: 30px 30px 30px 30px;
+	font-size: 25px;
+	font-family: Cantarell;
+	font-weight: bold;	
+	color: white;
+	background: #4682B4;
+	border-radius: 8px;
+    -moz-border-radius: 8px; 
+    -webkit-border-radius: 8px; 
+}
