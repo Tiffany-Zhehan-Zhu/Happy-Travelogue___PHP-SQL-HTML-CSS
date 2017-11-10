@@ -26,9 +26,9 @@
       <a class="navbar-brand" style="color:white;"> Happy Travelogue </a>
     </div>
     <ul class="nav navbar-nav">
-      <li><a href="http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/1-homepage/homepage.php">Home</a></li>
-      <li><a href="http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/2-plan/login.php">Planner</a></li>
-      <li><a href="http://studentprojects.sis.pitt.edu/fall2016/zhz90/Finalproject/3-forum/login.php">Forum</a></li>
+      <li><a href="../1-homepage/homepage.php">Home</a></li>
+      <li><a href="../2-plan/login.php">Planner</a></li>
+      <li><a href="../3-forum/login.php">Forum</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
 		<?php 
