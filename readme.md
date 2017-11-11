@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------
 
-** Tips for Testing the Functions: **
+**Tips for Testing the Functions:**
 
 (username: Tiffany, password: Tiffany) 
 can be used to test the planner and forum functions.
@@ -14,7 +14,7 @@ can be used to test the admin functions.
 
 -----------------------------------------------------------------------------
 
-** Happy Travelogue **
+**Happy Travelogue**
 
 
 Happy Travelogue is a comprehensive web application designed for both users and administrators.
