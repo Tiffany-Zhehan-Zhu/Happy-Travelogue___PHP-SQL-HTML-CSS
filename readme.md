@@ -22,7 +22,7 @@ It includes 3 parts: planner, forum and admin. Planner and forum are users servi
 
 See demo video at https://youtu.be/JiykgsaYqhA.
 
-*1. Planner*
+**1. Planner**
 
 Users must login to use the service. After logged in, user will be allowed to manage his/her to do lists. 
 
@@ -36,7 +36,7 @@ Function options:
 7)	Switch the item status between "new", "in progress" and "done" 
 
 
-*2. Forum*
+**2. Forum**
 
 Forum does not require users to login. 
 
@@ -52,7 +52,7 @@ Function options with login:
 5)	Reply to any topics
 
 
-*3. Admin*
+**3. Admin**
 
 Administration operations are only available to employees. Employees must log in to conduct operations and will have access to different functions depends on their job titles. A manager will be granted a higher privilege than a staff. Any staff can review/delete users and manage the forum and a manager is also able to review/delete employees. Interns have no privilege to work on the database system from the front-end.
 
