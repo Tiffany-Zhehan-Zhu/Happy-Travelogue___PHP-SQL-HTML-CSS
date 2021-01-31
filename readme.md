@@ -20,6 +20,7 @@ can be used to test the admin functions.
 Happy Travelogue is a comprehensive web application designed for both users and administrators.
 It includes 3 parts: planner, forum and admin. Planner and forum are users service and admin is a service only for employees. Logged in users can switch between planner and forum but have no to access to the admin part. And logged in administrators are not able to enter the planner or forum without log out and log in as an user. 
 
+See demo video at https://youtu.be/JiykgsaYqhA.
 
 1. Planner
 Users must login to use the service. After logged in, user will be allowed to manage his/her to do lists. 
