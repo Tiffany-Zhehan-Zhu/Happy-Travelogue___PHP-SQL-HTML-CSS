@@ -4,11 +4,11 @@ Happy Travelogue is a comprehensive web application designed for users to manage
 
 * The planner function allows users to manage to-do lists. 
 * The forum allows users to review and create categories, topics and comments, and manage their posts.
-* The hierarchical administration functions are developed for employees to manage users, subordinates, and the forum  
+* The hierarchical administration functions are developed for employees to manage users, subordinates, and the forum.  
 
 Planner and forum are users service and admin is a service only for employees. Logged in users can switch between planner and forum but have no to access to the admin part. And logged in administrators are not able to enter the planner or forum without log out and log in as an user. 
 
-See demo video at https://youtu.be/JiykgsaYqhA.
+See demo video at https://youtu.be/JiykgsaYqhA (Remember to turn on the subtitles, please).
 
 **1. Planner**
 
