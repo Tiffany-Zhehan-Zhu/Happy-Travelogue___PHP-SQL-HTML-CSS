@@ -22,7 +22,7 @@ It includes 3 parts: planner, forum and admin. Planner and forum are users servi
 
 See demo video at https://youtu.be/JiykgsaYqhA.
 
-*1. Planner
+*1. Planner*
 Users must login to use the service. After logged in, user will be allowed to manage his/her to do lists. 
 
 Function options:
