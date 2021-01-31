@@ -8,7 +8,7 @@ Happy Travelogue is a comprehensive web application designed for users to manage
 
 Planner and forum are users service and admin is a service only for employees. Logged in users can switch between planner and forum but have no to access to the admin part. And logged in administrators are not able to enter the planner or forum without log out and log in as an user. 
 
-See a 6-min demo video at https://youtu.be/JiykgsaYqhA. (Please remember to turn on subtitles.)
+See a 6-min demo video at https://youtu.be/JiykgsaYqhA. (Remember to turn on subtitles.)
 
 **1. Planner**
 
