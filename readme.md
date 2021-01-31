@@ -1,24 +1,12 @@
 # Happy Travelogue
 
------------------------------------------------------------------------------
+Happy Travelogue is a comprehensive web application designed for users to manage travel plans. It includes 3 parts: planner, forum and admin. 
 
-**Tips for Testing the Functions:**
+* The planner function allows users to manage to-do lists. 
+* The forum allows users to review and create categories, topics and comments, and manage their posts.
+* The hierarchical administration functions that allow employees to manage users, subordinates, and the forum  
 
-(username: Tiffany, password: Tiffany) 
-can be used to test the planner and forum functions.
-
-(email: ann@123.net, password: 123, manager), 
-(email: cindy@123.net, password: 123, staff), 
-(email: elle@123.net, password: 123, intern) 
-can be used to test the admin functions.
-
------------------------------------------------------------------------------
-
-**Happy Travelogue**
-
-
-Happy Travelogue is a comprehensive web application designed for both users and administrators.
-It includes 3 parts: planner, forum and admin. Planner and forum are users service and admin is a service only for employees. Logged in users can switch between planner and forum but have no to access to the admin part. And logged in administrators are not able to enter the planner or forum without log out and log in as an user. 
+Planner and forum are users service and admin is a service only for employees. Logged in users can switch between planner and forum but have no to access to the admin part. And logged in administrators are not able to enter the planner or forum without log out and log in as an user. 
 
 See demo video at https://youtu.be/JiykgsaYqhA.
 
@@ -66,4 +54,18 @@ Function options:
 7)	Review employees (Only allowed to managers) 
 8)	Delete employees (Only allowed to managers)
 
+
+-----------------------------------------------------------------------------
+
+**Tips for Testing the Functions:**
+
+(username: Tiffany, password: Tiffany) 
+can be used to test the planner and forum functions.
+
+(email: ann@123.net, password: 123, manager), 
+(email: cindy@123.net, password: 123, staff), 
+(email: elle@123.net, password: 123, intern) 
+can be used to test the admin functions.
+
+-----------------------------------------------------------------------------
 
